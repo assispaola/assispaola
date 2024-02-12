@@ -4,15 +4,15 @@
 <br><br>
 <p align="left"> 
  🖖 Apaixonada por tecnologia, inovação e pessoas! <br>
- Atualmente atuando com desenvolvimento front-end e estudante da plataforma Salesforce.
+ Sou uma desenvolvedora de sistemas com foco em desenvolvimento front-end altamente motivada com 4 anos de experiência, criando interfaces de usuário atraentes e funcionais. Tenho uma paixão pela inovação e estou comprometida em criar interfaces visuais que não apenas impressionam, mas também proporcionam uma experiência de usuário excepcional.
 </p>
 
 <p align="left">
- ☕  <strong>Habilidades:</strong> HTML, CSS, JavaScript, Salesforce.
+ ☕  <strong>Habilidades:</strong> HTML5, CSS3, JavaScript, Typescript, Sass, Angular Bootstrap, Media Queries, Wordpress.
 </p>
 
 <p align="left">
-  💼  <strong>Ferramentas:</strong> VS Code, Figma, Trello, Jira, Adobe XD, Photoshop, Miro, Notion, Power BI, Git e GitHub.
+  💼  <strong>Ferramentas:</strong> VS Code, Figma, Trello, Jira, Adobe XD, Photoshop, Miro, Notion, Power BI, Sharepoint, Grafana.
 </p>
 
 
