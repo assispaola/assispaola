@@ -16,11 +16,14 @@
 
 Product Owner | UX/UI + Tech | Design Thinking | Front-end
 
-<p align="left">✨ Creating bugs since 2020.<br><br>🎯 Goals: Apaixonada por transformar ideias em experiências digitais reais, sou uma profissional com 5 anos de experiência em tecnologia, com forte afinidade por design, organização e estruturação de produtos. Ao longo da minha trajetória, fui muito além do código: assumi a liderança informal de iniciativas de produto, organizando escopos, desenhando protótipos, mapeando jornadas e promovendo a clareza entre áreas.
+<p align="left">✨ Creating bugs since 2020.<br><br>
+
+👤 About: Apaixonada por transformar ideias em experiências digitais reais, sou uma profissional com 5 anos de experiência em tecnologia, com forte afinidade por design, organização e estruturação de produtos. Ao longo da minha trajetória, fui muito além do código: assumi a liderança informal de iniciativas de produto, organizando escopos, desenhando protótipos, mapeando jornadas e promovendo a clareza entre áreas.
 
 Minha entrega vai além da técnica. Gosto de conectar pessoas, organizar processos e construir soluções com impacto real para o negócio e o usuário. Domino ferramentas como Jira, Figma, Notion, Miro e SharePoint, e atuo com naturalidade na comunicação entre áreas técnicas e estratégicas, sempre com foco em gerar valor em cada entrega.
 
-Busco contribuir com produtos que façam sentido, com times colaborativos e visão de impacto, unindo minha bagagem prática em tech, meu olhar centrado no usuário e minha habilidade de estruturar, priorizar e facilitar boas decisões.<br><br>🦄 Fun fact: I'm passionate about creating engaging and functional interfaces, and I love using Design Thinking to solve complex problems.</p>
+Busco contribuir com produtos que façam sentido, com times colaborativos e visão de impacto, unindo minha bagagem prática em tech, meu olhar centrado no usuário e minha habilidade de estruturar, priorizar e facilitar boas decisões.<br><br>
+🦄 Fun fact: I'm passionate about creating engaging and functional interfaces, and I love using Design Thinking to solve complex problems.</p>
 
 ###
 
